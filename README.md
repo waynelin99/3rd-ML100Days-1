@@ -7,7 +7,7 @@
 
 
 ***
-### 1. 機器學習概論
+## 1. 機器學習概論
 
 1. [資料介紹與評估資料 (申論+程式碼)](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_001_HW.ipynb)
 
@@ -19,7 +19,7 @@
 
 
 
-### 2. 資料清理數據前處理
+## 2. 資料清理數據前處理
 
 5. [如何新建一個 dataframe? 如何讀取其他資料? (非csv的資料)](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_005_HW.ipynb)
 
