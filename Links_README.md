@@ -9,6 +9,8 @@
 
 [pandas基礎操作](https://bookdata.readthedocs.io/en/latest/base/01_pandas.html#DataFrame-%E5%85%A5%E9%97%A8)
 
+[loc,iloc](https://blog.csdn.net/qq1483661204/article/details/77587881)
+
 [pandas exercise](https://github.com/guipsamora/pandas_exercises)
 
 [Descriptive Statistics For pandas Dataframe](https://chrisalbon.com/python/data_wrangling/pandas_dataframe_descriptive_stats/)
@@ -25,13 +27,21 @@
 
 [使用 Request 抓取資料](https://blog.gtwang.org/programming/python-requests-module-tutorial/)
 
+### 統計
+[常⾒的統計分佈圖](https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1b-statistical-methods/statistical-distributions)
+
+[敘述統計與機率分布](http://www.hmwu.idv.tw/web/R_AI_M/AI-M1-hmwu_R_Stat&Prob.pdf)
+
+### python 
+[字串分割](http://www.runoob.com/python/att-string-split.html)
+
+[例外處理 Try-Except](https://pydoing.blogspot.com/2011/01/python-try.html)
+
 ### 其他
 
 [Label Encoder vs. One Hot Encoder](https://medium.com/@contactsunny/label-encoder-vs-one-hot-encoder-in-machine-learning-3fc273365621)
 
-[loc,iloc](https://blog.csdn.net/qq1483661204/article/details/77587881)
 
-[字串分割](http://www.runoob.com/python/att-string-split.html)
 
-[例外處理 Try-Except](https://pydoing.blogspot.com/2011/01/python-try.html)
+
 
