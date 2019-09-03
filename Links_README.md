@@ -1,10 +1,13 @@
 ## Links
 
 
-### EDA
+### 資料處理
 
 [What is Exploratory Data Analysis?](https://github.com/guipsamora/pandas_exercises)
 
+[Ways to Detect and Remove the Outliers](https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba)
+
+[How to Use Statistics to Identify Outliers in Data](https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/)
 ### pandas
 
 [pandas基礎操作](https://bookdata.readthedocs.io/en/latest/base/01_pandas.html#DataFrame-%E5%85%A5%E9%97%A8)
