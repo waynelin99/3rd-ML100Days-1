@@ -27,11 +27,14 @@
 
 7. [特徵類型](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_007_HW.ipynb)
 
-8. [EDA: Outlier 及處理]
+8. [EDA: Outlier 及處理](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_008_HW.ipynb)
 
-9. [數值型特徵 - 去除離群值 1]
+9. [數值型特徵 - 去除離群值 1](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_009_HW.ipynb)
 
-10. [數值型特徵 - 去除離群值 2]
+10. [數值型特徵 - 去除離群值 2](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_010_HW.ipynb)
+
+## 3. 資料科學特徵工程技術
+
 
 
 ## [Links](https://github.com/smile22091/3rd-ML100Days/blob/master/Links_README.md)
