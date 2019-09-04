@@ -9,8 +9,8 @@
 
 [How to Use Statistics to Identify Outliers in Data](https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/)
 
-	- [Identify Outliers Exemple](https://github.com/smile22091/3rd-ML100Days/blob/master/Links/Identify%20Outliers%20Exemple.ipynb)
-	
+
+
 ### pandas
 
 [pandas基礎操作](https://bookdata.readthedocs.io/en/latest/base/01_pandas.html#DataFrame-%E5%85%A5%E9%97%A8)
@@ -46,6 +46,7 @@
 ### 其他
 
 [Label Encoder vs. One Hot Encoder](https://medium.com/@contactsunny/label-encoder-vs-one-hot-encoder-in-machine-learning-3fc273365621)
+
 
 
 
