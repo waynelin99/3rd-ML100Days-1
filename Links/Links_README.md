@@ -9,6 +9,8 @@
 
 [How to Use Statistics to Identify Outliers in Data](https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/)
 
+- [Identify_Outliers_Exemple](https://github.com/smile22091/3rd-ML100Days/blob/master/Links/Identify_Outliers_Exemple.ipynb)
+
 
 
 ### pandas
