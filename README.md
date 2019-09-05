@@ -13,7 +13,7 @@
 
 2. [機器學習概論 (申論題)](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_002_HW.ipynb)
 
-3. [機器學習-流程與步驟 (申論題)](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_003_HW.ipynb)
+3. [機器學習 - 流程與步驟 (申論題)](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_003_HW.ipynb)
 
 4. [EDA/讀取資料與分析流程](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_004_HW.ipynb)
 
@@ -35,7 +35,7 @@
 
 11. [常用的數值取代：中位數與分位數連續數值標準化](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_011_HW.ipynb)
 
-12. [數值型特徵-補缺失值與標準化](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_012_HW.ipynb)
+12. [數值型特徵 - 補缺失值與標準化](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_012_HW.ipynb)
 
 ## 3. 資料科學特徵工程技術
 
