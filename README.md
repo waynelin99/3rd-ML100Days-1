@@ -27,11 +27,15 @@
 
 7. [特徵類型](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_007_HW.ipynb)
 
-8. [EDA: Outlier 及處理](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_008_HW.ipynb)
+8. [EDA資料分佈](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_008_HW.ipynb)
 
-9. [數值型特徵 - 去除離群值 1](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_009_HW.ipynb)
+9. [EDA: Outlier 及處理](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_009_HW.ipynb)
 
-10. [數值型特徵 - 去除離群值 2](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_010_HW.ipynb)
+10. [數值型特徵 - 去除離群值](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_010_HW.ipynb)
+
+11. [常用的數值取代：中位數與分位數連續數值標準化](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_011_HW.ipynb)
+
+12. [數值型特徵-補缺失值與標準化](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_012_HW.ipynb)
 
 ## 3. 資料科學特徵工程技術
 
