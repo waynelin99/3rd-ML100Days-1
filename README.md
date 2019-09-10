@@ -37,6 +37,12 @@
 
 12. [數值型特徵 - 補缺失值與標準化](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_012_HW.ipynb)
 
+13. [DataFrame operationData frame merge/常用的 DataFrame](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_013_HW.ipynb)
+
+14. [程式實作 EDA: correlation/相關係數簡介](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_014_HW.ipynb)
+
+15. [DA from Correlation](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_015_HW.ipynb)
+
 ## 3. 資料科學特徵工程技術
 
 
