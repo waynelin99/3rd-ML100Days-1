@@ -29,6 +29,11 @@
 
 [pandas 中的繪圖函數](https://chrisalbon.com/python/data_wrangling/pandas_dataframe_descriptive_stats/)
 
+[pandas cheat sheat officail](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+
+[pandas cheat sheat](https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf)
+
+
 ### Machine Learning
 [k- fold cross validation](https://zhuanlan.zhihu.com/p/24825503)
 
