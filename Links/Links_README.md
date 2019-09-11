@@ -17,7 +17,6 @@
 [數據標準化 / 歸⼀化normalization](https://blog.csdn.net/pipisorry/article/details/52247379)
 
 
-
 ### pandas
 [pandas基礎操作](https://bookdata.readthedocs.io/en/latest/base/01_pandas.html#DataFrame-%E5%85%A5%E9%97%A8)
 
@@ -38,6 +37,8 @@
 [k- fold cross validation](https://zhuanlan.zhihu.com/p/24825503)
 
 [bias variance](https://www.zhihu.com/question/27068705)
+
+[基礎機器學習API圖鑑](https://drive.google.com/file/d/1aQTMq_x3odvzzWQ-I_xLifcpfCSUwUgR/view)
 
 ### 爬蟲
 [使用 Request 抓取資料](https://blog.gtwang.org/programming/python-requests-module-tutorial/)
