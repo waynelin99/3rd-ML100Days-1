@@ -43,6 +43,22 @@
 
 15. [DA from Correlation](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_015_HW.ipynb)
 
+
+16. [EDA: 不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE)](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_016_HW.ipynb)
+
+
+17. [EDA: 把連續型變數離散化](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_017_HW.ipynb)
+
+18. [程式實作 把連續型變數離散化](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_018_HW.ipynb)
+
+19. Subplots(https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_019_HW.ipynb)
+
+20. Heatmap & Grid-plot(https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_020_HW.ipynb)
+
+21. 模型初體驗 Logistic Regression(https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_021_HW.ipynb)
+
+
+
 ## 3. 資料科學特徵工程技術
 
 
