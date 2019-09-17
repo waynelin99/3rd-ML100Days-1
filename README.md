@@ -61,7 +61,28 @@
 
 ## 3. 資料科學特徵工程技術
 
+22. 特徵工程簡介(https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_022_HW.ipynb)
+
+23. 數值型特徵 - 去除偏態(https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_023_HW.ipynb)
+
+24. 類別型特徵 - 基礎處理(https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_024_HW.ipynb)
+
+25. 類別型特徵 - 均值編碼(https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_025_HW.ipynb)
+
+26. 類別型特徵 - 其他進階處理(https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_026_HW.ipynb)
+
+27. 時間型特徵(https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_027_HW.ipynb)
+
+28. 特徵組合 - 數值與數值組合(https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_028_HW.ipynb)
+
+29. 特徵組合 - 類別與數值組合(https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_029_HW.ipynb)
+
+30. 特徵選擇(https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_030_HW.ipynb)
+
+31. 特徵評估(https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_031_HW.ipynb)
+
+32. 分類型特徵優化 - 葉編碼(https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_032_HW.ipynb)
 
 
-## [Links](https://github.com/smile22091/Resources/blob/master/Resorces_README.md)
+## [Resources](https://github.com/smile22091/Resources/blob/master/Resources_README.md)
 
