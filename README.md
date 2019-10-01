@@ -83,6 +83,35 @@
 
 32. [分類型特徵優化 - 葉編碼](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_032_HW.ipynb)
 
+## 4. 機器學習基礎模型建立
+
+33. [機器如何學習?](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_033_HW.ipynb)
+
+34. [訓練/測試集切分的概念](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_034_HW.ipynb)
+
+35. [regression vs. classification](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_035_HW.ipynb)
+
+36. [評估指標選定/evaluation metrics](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_036_HW.ipynb)
+
+37. [regression model 介紹 - 線性迴歸/羅吉斯回歸](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_037_HW.ipynb)
+
+38. [regression model 程式碼撰寫](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_038_HW.ipynb)
+
+39. [regression model 介紹 - LASSO 回歸/ Ridge 回歸](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_039_HW.ipynb)
+
+40. [regression model 程式碼撰寫](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_040_HW.ipynb)
+
+41. [tree based model - 決策樹 (Decision Tree) 模型介紹](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_041_HW.ipynb)
+
+42. [tree based model - 決策樹程式碼撰寫](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_042_HW.ipynb)
+
+43. [tree based model - 隨機森林 (Random Forest) 介紹](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_043_HW.ipynb)
+
+44. [tree based model - 隨機森林程式碼撰寫](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_044_HW.ipynb)
+
+45. [tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_045_HW.ipynb)
+
+46. [tree based model - 梯度提升機程式碼撰寫](https://github.com/smile22091/3rd-ML100Days/blob/master/homework/Day_046_HW.ipynb)
 
 ## [Resources](https://github.com/smile22091/Resources/blob/master/Resources_README.md)
 
